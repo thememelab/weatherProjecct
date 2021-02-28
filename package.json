@@ -1,0 +1,16 @@
+{
+  "name": "weatherprojecct",
+  "version": "1.0.0",
+  "description": "simple weather project api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samuel s ampofo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "comment-json": "^4.0.6",
+    "express": "^4.17.1"
+  }
+}
